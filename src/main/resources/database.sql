@@ -1,4 +1,4 @@
-CREATE TABLE mountainike
+CREATE TABLE mountainbike
 (
     id       SERIAL PRIMARY KEY,
     brand    VARCHAR(30) NOT NULL,
